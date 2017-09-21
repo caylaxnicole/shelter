@@ -1,0 +1,38 @@
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+
+h2 {
+  width: 200px;
+}
+
+p {
+  width: 310px;
+}
+.tile {
+  width: 95%;
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.dog {
+  padding: 4px
+  margin: 4px
+  border: 2px dashed blue
+  /*float: left;*/
+}
+.cat {
+  margin: 4px
+  /*float: center;*/
+}
+.bunny {
+  margin: 4px
+  /*float: right;*/
+}
